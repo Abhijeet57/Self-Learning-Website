@@ -10,3 +10,8 @@ Self-Learning-Website
 1. Languages used: HTML5, CSS3, JavaScript, ASP.NET
 2. Database used: Microsoft SQL Server 2016, Entity Framework
 3. Tool used: Visual Studio 2017
+
+## Instructions:
+1. Download and unzip Project.zip file.
+2. Import the project into Visual Studio.
+3. Start Microsoft SQL Server and execute all the SQL queries provided into sqlqueries.zip file.
